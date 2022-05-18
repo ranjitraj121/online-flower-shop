@@ -1,0 +1,43 @@
+{
+    "packages": [
+        {
+            "name": "latepoint/cerber",
+            "version": "1.0.2",
+            "version_normalized": "1.0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.org/themebully/latepoint-cerber.git",
+                "reference": "fb803008db7161f9fea180420ae171a16eec2cf1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://bitbucket.org/themebully/latepoint-cerber/get/fb803008db7161f9fea180420ae171a16eec2cf1.zip",
+                "reference": "fb803008db7161f9fea180420ae171a16eec2cf1",
+                "shasum": ""
+            },
+            "time": "2021-07-06T05:53:03+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "LatePoint\\Cerber\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Tamerlan Soziev",
+                    "email": "tamik@soziev.com"
+                }
+            ],
+            "description": "Router for latepoint plugin",
+            "homepage": "https://bitbucket.org/themebully/latepoint-cerber",
+            "support": {
+                "source": "https://bitbucket.org/themebully/latepoint-cerber/src/fb803008db7161f9fea180420ae171a16eec2cf1/?at=1.0.2"
+            },
+            "install-path": "../latepoint/cerber"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

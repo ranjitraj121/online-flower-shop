@@ -1,0 +1,1 @@
+<?php echo OsAddonsHelper::generate_missing_addon_link(__('Install Locations Add-on', 'latepoint')); ?>
