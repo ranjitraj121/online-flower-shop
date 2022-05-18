@@ -1,0 +1,18 @@
+{
+    "default": {
+        "title": "Default",
+        "description": "",
+        "version": "2.0",
+        "category": "business,services",
+        "demo_url": "//qwery.ancorathemes.com"
+    },
+    "florist": {
+        "title": "Florist",
+        "description": "",
+        "version": "1.6",
+        "category": "business,creative,online store",
+        "demo_url": "//florist.qwery.ancorathemes.com/",
+        "checked": "2021-12-20 12:50:49",
+        "updated": "2021-11-22"
+    }
+}
