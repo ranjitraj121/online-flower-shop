@@ -1,0 +1,267 @@
+[28-Mar-2022 15:50:46 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[28-Mar-2022 15:50:46 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[28-Mar-2022 15:50:46 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2924
+[28-Mar-2022 15:50:46 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[28-Mar-2022 15:50:46 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[28-Mar-2022 15:50:46 UTC] PHP Warning:  Illegal string offset 'icon' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[28-Mar-2022 15:50:46 UTC] PHP Warning:  Illegal string offset 'cart_url' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[28-Mar-2022 15:50:46 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2937
+[28-Mar-2022 15:51:59 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[28-Mar-2022 15:51:59 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[28-Mar-2022 15:51:59 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2924
+[28-Mar-2022 15:51:59 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[28-Mar-2022 15:51:59 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[28-Mar-2022 15:51:59 UTC] PHP Warning:  Illegal string offset 'icon' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[28-Mar-2022 15:51:59 UTC] PHP Warning:  Illegal string offset 'cart_url' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[28-Mar-2022 15:51:59 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2937
+[28-Mar-2022 16:06:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flowerst/public_html/wp-content/plugins/elementor/includes/managers/controls.php on line 763
+[28-Mar-2022 16:10:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flowerst/public_html/wp-content/plugins/elementor/includes/managers/controls.php on line 763
+[28-Mar-2022 16:11:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flowerst/public_html/wp-content/plugins/elementor/includes/managers/controls.php on line 776
+[28-Mar-2022 16:17:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flowerst/public_html/wp-content/plugins/elementor/includes/managers/controls.php on line 776
+[28-Mar-2022 16:20:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flowerst/public_html/wp-content/plugins/elementor/includes/managers/controls.php on line 763
+[28-Mar-2022 16:20:26 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[28-Mar-2022 16:20:26 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[28-Mar-2022 16:20:26 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2924
+[28-Mar-2022 16:20:26 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[28-Mar-2022 16:20:26 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[28-Mar-2022 16:20:26 UTC] PHP Warning:  Illegal string offset 'icon' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[28-Mar-2022 16:20:26 UTC] PHP Warning:  Illegal string offset 'cart_url' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[28-Mar-2022 16:20:26 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2937
+[28-Mar-2022 16:31:48 UTC] PHP Warning:  Use of undefined constant ELEMENTOR_VERSION - assumed 'ELEMENTOR_VERSION' (this will throw an Error in a future version of PHP) in /home/flowerst/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/Bootstrap.php on line 164
+[28-Mar-2022 16:31:59 UTC] PHP Warning:  Use of undefined constant ELEMENTOR_VERSION - assumed 'ELEMENTOR_VERSION' (this will throw an Error in a future version of PHP) in /home/flowerst/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/Bootstrap.php on line 164
+[28-Mar-2022 16:32:11 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[28-Mar-2022 16:32:11 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[28-Mar-2022 16:32:11 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2924
+[28-Mar-2022 16:32:11 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[28-Mar-2022 16:32:11 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[28-Mar-2022 16:32:11 UTC] PHP Warning:  Illegal string offset 'icon' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[28-Mar-2022 16:32:11 UTC] PHP Warning:  Illegal string offset 'cart_url' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[28-Mar-2022 16:32:11 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2937
+[28-Mar-2022 16:32:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flowerst/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 618
+[28-Mar-2022 16:32:57 UTC] PHP Warning:  Use of undefined constant ELEMENTOR_VERSION - assumed 'ELEMENTOR_VERSION' (this will throw an Error in a future version of PHP) in /home/flowerst/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/Bootstrap.php on line 164
+[28-Mar-2022 16:33:03 UTC] PHP Warning:  Use of undefined constant ELEMENTOR_VERSION - assumed 'ELEMENTOR_VERSION' (this will throw an Error in a future version of PHP) in /home/flowerst/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/Bootstrap.php on line 164
+[28-Mar-2022 16:33:07 UTC] PHP Warning:  Use of undefined constant ELEMENTOR_VERSION - assumed 'ELEMENTOR_VERSION' (this will throw an Error in a future version of PHP) in /home/flowerst/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/Bootstrap.php on line 164
+[28-Mar-2022 16:33:22 UTC] PHP Warning:  Use of undefined constant ELEMENTOR_VERSION - assumed 'ELEMENTOR_VERSION' (this will throw an Error in a future version of PHP) in /home/flowerst/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/Bootstrap.php on line 164
+[28-Mar-2022 16:33:42 UTC] PHP Warning:  Use of undefined constant ELEMENTOR_VERSION - assumed 'ELEMENTOR_VERSION' (this will throw an Error in a future version of PHP) in /home/flowerst/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/Bootstrap.php on line 164
+[28-Mar-2022 16:33:47 UTC] PHP Warning:  Use of undefined constant ELEMENTOR_VERSION - assumed 'ELEMENTOR_VERSION' (this will throw an Error in a future version of PHP) in /home/flowerst/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/Bootstrap.php on line 164
+[28-Mar-2022 16:33:48 UTC] PHP Warning:  Use of undefined constant ELEMENTOR_VERSION - assumed 'ELEMENTOR_VERSION' (this will throw an Error in a future version of PHP) in /home/flowerst/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/Bootstrap.php on line 164
+[28-Mar-2022 16:34:11 UTC] PHP Warning:  Use of undefined constant ELEMENTOR_VERSION - assumed 'ELEMENTOR_VERSION' (this will throw an Error in a future version of PHP) in /home/flowerst/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/Bootstrap.php on line 164
+[28-Mar-2022 16:34:36 UTC] PHP Warning:  Use of undefined constant ELEMENTOR_VERSION - assumed 'ELEMENTOR_VERSION' (this will throw an Error in a future version of PHP) in /home/flowerst/public_html/wp-content/plugins/essential-addons-for-elementor-lite/includes/Classes/Bootstrap.php on line 164
+[28-Mar-2022 16:38:38 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[28-Mar-2022 16:38:38 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[28-Mar-2022 16:38:38 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2924
+[28-Mar-2022 16:38:38 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[28-Mar-2022 16:38:38 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[28-Mar-2022 16:38:38 UTC] PHP Warning:  Illegal string offset 'icon' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[28-Mar-2022 16:38:38 UTC] PHP Warning:  Illegal string offset 'cart_url' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[28-Mar-2022 16:38:38 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2937
+[28-Mar-2022 16:38:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 40960 bytes) in /home/flowerst/public_html/wp-content/plugins/elementor/includes/base/widget-base.php on line 183
+[28-Mar-2022 17:04:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:04:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:06:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:06:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:18:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:18:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:18:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:18:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:19:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:19:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:43:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:43:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:50:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:50:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flowerst/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[28-Mar-2022 17:52:38 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[28-Mar-2022 17:52:38 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[28-Mar-2022 17:52:38 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2924
+[28-Mar-2022 17:52:38 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[28-Mar-2022 17:52:38 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[28-Mar-2022 17:52:38 UTC] PHP Warning:  Illegal string offset 'icon' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[28-Mar-2022 17:52:38 UTC] PHP Warning:  Illegal string offset 'cart_url' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[28-Mar-2022 17:52:38 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2937
+[28-Mar-2022 17:52:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36864 bytes) in /home/flowerst/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 618
+[01-Apr-2022 05:21:15 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[01-Apr-2022 05:21:15 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2923
+[01-Apr-2022 05:21:15 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2924
+[01-Apr-2022 05:21:15 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[01-Apr-2022 05:21:15 UTC] PHP Warning:  Cannot assign an empty string to a string offset in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2925
+[01-Apr-2022 05:21:15 UTC] PHP Warning:  Illegal string offset 'icon' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[01-Apr-2022 05:21:15 UTC] PHP Warning:  Illegal string offset 'cart_url' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2932
+[01-Apr-2022 05:21:15 UTC] PHP Warning:  Illegal string offset 'simple_mode' in /home/flowerst/public_html/wp-content/themes/phlox/auxin/auxin-include/include/functions.php on line 2937
+[02-Apr-2022 20:16:56] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:02] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:04] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:05] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:05] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:05] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:06] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:55] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:56] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:56] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:56] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:56] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:57] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:57] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:58] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:58] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:58] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:58] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:59] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:59] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:17:59] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:18:00] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:18:00] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:18:00] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:18:01] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:18:01] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:18:01] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/plugin-install.php on line 93
+[02-Apr-2022 20:18:12] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/index.php on line 178
+[02-Apr-2022 20:18:15] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/index.php on line 178
+[02-Apr-2022 20:18:44] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/index.php on line 178
+[02-Apr-2022 20:18:44] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/index.php on line 178
+[02-Apr-2022 20:18:45] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/index.php on line 178
+[02-Apr-2022 20:18:45] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/index.php on line 178
+[02-Apr-2022 20:18:45] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/index.php on line 178
+[02-Apr-2022 20:18:46] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/index.php on line 178
+[02-Apr-2022 20:20:37] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/flowerst/public_html/wp-admin/index.php on line 178
+[14-Apr-2022 05:23:32 UTC] WordPress database error Table 'flowerst_wp01.wp_latepoint_settings' doesn't exist for query SELECT name, value FROM wp_latepoint_settings  WHERE name IN  ('enable_google_login','time_system','date_format','currency_symbol_before','currency_symbol_after','disable_phone_formatting','enable_payments_stripe','enable_payments_braintree','phone_format','steps_show_timezone_selector','show_booking_end_time','stripe_publishable_key','enable_payments_paypal','enable_facebook_login','earliest_possible_booking','enable_payments','enable_payments_cc','enable_payments_local','color_scheme_for_booking_form','steps_support_text','latest_possible_booking','facebook_app_id','google_client_id','paypal_client_id','paypal_currency_iso_code','paypal_use_braintree_api','stripe_secret_key','steps_hide_agent_info','booking_hash','payments_environment')      made by activate_plugins, activate_plugin, plugin_sandbox_scrape, include_once('/plugins/latepoint/latepoint.php'), LatePoint->__construct, LatePoint->init_hooks, OsSettingsHelper::run_autoload, OsModel->get_results
+[14-Apr-2022 05:23:32 UTC] WordPress database error Table 'flowerst_wp01.wp_latepoint_settings' doesn't exist for query SELECT * FROM wp_latepoint_settings  WHERE name= 'enable_google_login'    LIMIT 1  made by activate_plugins, activate_plugin, plugin_sandbox_scrape, include_once('/plugins/latepoint/latepoint.php'), LatePoint->__construct, LatePoint->init_hooks, OsSettingsHelper::is_using_google_login, OsSettingsHelper::is_on, OsSettingsHelper::get_settings_value, OsModel->get_results_as_models, OsModel->get_results
+[14-Apr-2022 05:23:32 UTC] WordPress database error Table 'flowerst_wp01.wp_latepoint_settings' doesn't exist for query SELECT * FROM wp_latepoint_settings  WHERE name= 'booking_hash'    LIMIT 1  made by activate_plugins, activate_plugin, plugin_sandbox_scrape, include_once('/plugins/latepoint/latepoint.php'), LatePoint->__construct, LatePoint->init_hooks, OsStepsHelper::init_step_actions, OsStepsHelper::confirm_hash, OsSettingsHelper::get_settings_value, OsModel->get_results_as_models, OsModel->get_results
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_booking_intents] => Created table wp_latepoint_booking_intents
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_sessions] => Created table wp_latepoint_sessions
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_bookings] => Created table wp_latepoint_bookings
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_booking_meta] => Created table wp_latepoint_booking_meta
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_sent_reminders] => Created table wp_latepoint_sent_reminders
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_service_meta] => Created table wp_latepoint_service_meta
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_customer_meta] => Created table wp_latepoint_customer_meta
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_agent_meta] => Created table wp_latepoint_agent_meta
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_settings] => Created table wp_latepoint_settings
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_locations] => Created table wp_latepoint_locations
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_location_categories] => Created table wp_latepoint_location_categories
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_services] => Created table wp_latepoint_services
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_agents] => Created table wp_latepoint_agents
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_step_settings] => Created table wp_latepoint_step_settings
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_customers] => Created table wp_latepoint_customers
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_service_categories] => Created table wp_latepoint_service_categories
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_custom_prices] => Created table wp_latepoint_custom_prices
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_work_periods] => Created table wp_latepoint_work_periods
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_agents_services] => Created table wp_latepoint_agents_services
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_activities] => Created table wp_latepoint_activities
+)
+
+[14-Apr-2022 05:23:32 UTC] Array
+(
+    [wp_latepoint_transactions] => Created table wp_latepoint_transactions
+)
+
+[14-Apr-2022 05:31:14 UTC] PHP Fatal error:  Uncaught Exception: Invalid post. in /home/flowerst/public_html/wp-content/plugins/elementor/core/settings/page/manager.php:101
+Stack trace:
+#0 /home/flowerst/public_html/wp-content/plugins/elementor/core/base/document.php(1542): Elementor\Core\Settings\Page\Manager->ajax_before_save_settings(Array, NULL)
+#1 /home/flowerst/public_html/wp-content/plugins/elementor/core/base/document.php(725): Elementor\Core\Base\Document->save_settings(Array)
+#2 /home/flowerst/public_html/wp-content/plugins/elementor/core/kits/manager.php(262): Elementor\Core\Base\Document->update_settings(Array)
+#3 /home/flowerst/public_html/wp-content/plugins/elementor/core/kits/manager.php(420): Elementor\Core\Kits\Manager->update_kit_settings_based_on_option('site_name', 'Qwery - Florist')
+#4 /home/flowerst/public_html/wp-includes/class-wp-hook.php(309): Elementor\Core\Kits\Manager->Elementor\Core\Kits\{closure}('', 'Qwery - Florist')
+#5 /home/flowerst/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 /ho in /home/flowerst/public_html/wp-content/plugins/elementor/core/settings/page/manager.php on line 101
+[14-Apr-2022 11:22:53 UTC] PHP Fatal error:  Uncaught Exception: Invalid post. in /home/flowerst/public_html/wp-content/plugins/elementor/core/settings/page/manager.php:101
+Stack trace:
+#0 /home/flowerst/public_html/wp-content/plugins/elementor/core/base/document.php(1542): Elementor\Core\Settings\Page\Manager->ajax_before_save_settings(Array, NULL)
+#1 /home/flowerst/public_html/wp-content/plugins/elementor/core/base/document.php(725): Elementor\Core\Base\Document->save_settings(Array)
+#2 /home/flowerst/public_html/wp-content/plugins/elementor/core/kits/manager.php(262): Elementor\Core\Base\Document->update_settings(Array)
+#3 /home/flowerst/public_html/wp-content/plugins/elementor/core/kits/manager.php(424): Elementor\Core\Kits\Manager->update_kit_settings_based_on_option('site_descriptio...', 'The Ultimate Mu...')
+#4 /home/flowerst/public_html/wp-includes/class-wp-hook.php(309): Elementor\Core\Kits\Manager->Elementor\Core\Kits\{closure}('', 'The Ultimate Mu...')
+#5 /home/flowerst/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('' in /home/flowerst/public_html/wp-content/plugins/elementor/core/settings/page/manager.php on line 101
+[14-Apr-2022 11:24:35 UTC] PHP Warning:  Creating default object from empty value in /home/flowerst/public_html/wp-admin/includes/nav-menu.php on line 379
+[14-Apr-2022 11:24:35 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/flowerst/public_html/wp-admin/includes/class-walker-nav-menu-checklist.php on line 123
+[14-Apr-2022 12:52:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/flowerst/public_html/wp-content/plugins/elementor/core/app/modules/import-export/module.php:399
+Stack trace:
+#0 /home/flowerst/public_html/wp-content/plugins/elementor/core/app/modules/import-export/module.php(373): Elementor\Core\App\Modules\ImportExport\Module->get_elementor_page_url('5002')
+#1 /home/flowerst/public_html/wp-content/plugins/elementor/core/app/modules/import-export/module.php(425): Elementor\Core\App\Modules\ImportExport\Module->get_elementor_home_page_url()
+#2 /home/flowerst/public_html/wp-content/plugins/elementor/core/app/modules/import-export/module.php(63): Elementor\Core\App\Modules\ImportExport\Module->get_config_data()
+#3 /home/flowerst/public_html/wp-content/plugins/elementor/core/base/base-object.php(142): Elementor\Core\App\Modules\ImportExport\Module->get_init_settings()
+#4 /home/flowerst/public_html/wp-content/plugins/elementor/core/base/base-object.php(40): Elementor\Core\Base\Base_Object->ensur in /home/flowerst/public_html/wp-content/plugins/elementor/core/app/modules/import-export/module.php on line 399
+[14-Apr-2022 14:50:08 UTC] WordPress database error Column 'ip_address' cannot be null for query INSERT INTO `wp_wpgdprc_log` (`site_id`, `plugin_id`, `form_id`, `user`, `ip_address`, `log`, `consent_text`, `date_created`) VALUES (1, 'wp_registration', '', NULL, NULL, 'User has given consent when registering', 'By using this form you agree with the storage and handling of your data by this website.', '2022-04-14 14:50:08') made by do_action('wp_ajax_nopriv_xoo_el_form_action'), WP_Hook->do_action, WP_Hook->apply_filters, Xoo_El_Form_Handler::form_action, Xoo_El_Form_Handler::process_registration, Xoo_El_Form_Handler::create_customer, wp_insert_user, do_action('user_register'), WP_Hook->do_action, WP_Hook->apply_filters, WPGDPRC\Integrations\WPRegistration->logConsent, WPGDPRC\Objects\Log::insertLog
+[14-Apr-2022 16:22:23 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/#sql-temptable-2230-38a7bf-2352a.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/flowerst/public_html/wp-includes/wp-db.php on line 2162
+[14-Apr-2022 16:22:23 UTC] WordPress database error Disk full (/tmp/#sql-temptable-2230-38a7bf-2352a.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SELECT  t.*, tt.* FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('nav_menu') AND tt.count > 0 ORDER BY t.name ASC  made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, run_tinv_wishlist, require_once('/plugins/ti-woocommerce-wishlist/integrations/buy-now-button-for-woocommerce.php'), tinv_get_option, tinv_get_option_defaults, TInvWL_Admin_Settings_General->constructor_data, TInvWL_Admin_Settings_General->get_wp_menus, get_terms, WP_Term_Query->query, WP_Term_Query->get_terms
+[03-May-2022 08:10:13 UTC] WordPress database error Column 'ip_address' cannot be null for query INSERT INTO `wp_wpgdprc_log` (`site_id`, `plugin_id`, `form_id`, `user`, `ip_address`, `log`, `consent_text`, `date_created`) VALUES (1, 'wp_registration', '', NULL, NULL, 'User has given consent when registering', 'By using this form you agree with the storage and handling of your data by this website.', '2022-05-03 08:10:13') made by do_action('wp_ajax_nopriv_xoo_el_form_action'), WP_Hook->do_action, WP_Hook->apply_filters, Xoo_El_Form_Handler::form_action, Xoo_El_Form_Handler::process_registration, Xoo_El_Form_Handler::create_customer, wp_insert_user, do_action('user_register'), WP_Hook->do_action, WP_Hook->apply_filters, WPGDPRC\Integrations\WPRegistration->logConsent, WPGDPRC\Objects\Log::insertLog
+[04-May-2022 05:11:31 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = 'elementor_log' LIMIT 1 made by Elementor\Core\Logger\Manager->shutdown, Elementor\Core\Logger\Loggers\Base->log, Elementor\Core\Logger\Loggers\Db->save_log, Elementor\Core\Logger\Loggers\Db->maybe_truncate_log, Elementor\Core\Logger\Loggers\Db->get_log, get_option
+[04-May-2022 05:11:31 UTC] WordPress database error Commands out of sync; you can't run this command now for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('elementor_log', 'a:1:{s:32:\"de37ef35317ebd119cfa952311f9f251\";O:31:\"Elementor\\Core\\Logger\\Items\\PHP\":9:{s:7:\"\0*\0file\";s:89:\"/home/flowerst/public_html/wp-content/plugins/elementor/modules/dev-tools/deprecation.php\";s:7:\"\0*\0line\";i:301;s:7:\"\0*\0date\";s:19:\"2022-05-04 05:11:31\";s:7:\"\0*\0type\";s:6:\"notice\";s:10:\"\0*\0message\";s:59:\"The $control_id argument is deprecated since version 3.5.0!\";s:7:\"\0*\0meta\";a:1:{s:5:\"trace\";a:1:{i:0;a:3:{s:8:\"function\";s:8:\"shutdown\";s:5:\"class\";s:29:\"Elementor\\Core\\Logger\\Manager\";s:4:\"type\";s:2:\"->\";}}}s:8:\"\0*\0times\";i:1;s:14:\"\0*\0times_dates\";a:1:{i:0;s:19:\"2022-05-04 05:11:31\";}s:7:\"\0*\0args\";a:5:{s:4:\"type\";s:6:\"notice\";s:7:\"message\";s:59:\"The $control_id argument is deprecated since version 3.5.0!\";s:4:\"file\";s:89:\"/home/flowerst/public_html/wp-content/plugins/elementor/modules/dev-tools/deprecation.php\";s:4:\"line\";i:301;s:5:\"trace\";b:1;}}}', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by Elementor\Core\Logger\Manager->shutdown, Elementor\Core\Logger\Loggers\Base->log, Elementor\Core\Logger\Loggers\Db->save_log, update_option, add_option
+[14-May-2022 08:42:33 UTC] WordPress database error Column 'ip_address' cannot be null for query INSERT INTO `wp_wpgdprc_log` (`site_id`, `plugin_id`, `form_id`, `user`, `ip_address`, `log`, `consent_text`, `date_created`) VALUES (1, 'wp_registration', '', NULL, NULL, 'User has given consent when registering', 'By using this form you agree with the storage and handling of your data by this website.', '2022-05-14 08:42:33') made by do_action('wp_ajax_nopriv_xoo_el_form_action'), WP_Hook->do_action, WP_Hook->apply_filters, Xoo_El_Form_Handler::form_action, Xoo_El_Form_Handler::process_registration, Xoo_El_Form_Handler::create_customer, wp_insert_user, do_action('user_register'), WP_Hook->do_action, WP_Hook->apply_filters, WPGDPRC\Integrations\WPRegistration->logConsent, WPGDPRC\Objects\Log::insertLog
+[16-May-2022 06:55:32 UTC] WordPress database error Column 'ip_address' cannot be null for query INSERT INTO `wp_wpgdprc_log` (`site_id`, `plugin_id`, `form_id`, `user`, `ip_address`, `log`, `consent_text`, `date_created`) VALUES (1, 'wp_registration', '', NULL, NULL, 'User has given consent when registering', 'By using this form you agree with the storage and handling of your data by this website.', '2022-05-16 06:55:32') made by do_action('wp_ajax_nopriv_xoo_el_form_action'), WP_Hook->do_action, WP_Hook->apply_filters, Xoo_El_Form_Handler::form_action, Xoo_El_Form_Handler::process_registration, Xoo_El_Form_Handler::create_customer, wp_insert_user, do_action('user_register'), WP_Hook->do_action, WP_Hook->apply_filters, WPGDPRC\Integrations\WPRegistration->logConsent, WPGDPRC\Objects\Log::insertLog
